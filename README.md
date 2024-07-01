@@ -21,8 +21,8 @@
 
 <!-- GitHubのstats統計：https://github.com/anuraghazra/github-readme-stats -->
 
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NaoyaMiyashitaNissan&theme=vue-dark&show_icons=true" /><br>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaMiyashitaNissan&theme=vue-dark&layout=compact" />
+<img alt="GitHub stats" src="https://github-stats-private-repository-3in9.vercel.app/api?username=NaoyaMiyashitaNissan&theme=vue-dark&show_icons=true&count_private=true&include_orgs=true" /><br>
+<img alt="Top Langs" src="https://github-stats-private-repository-3in9.vercel.app/api/top-langs/?username=NaoyaMiyashitaNissan&theme=vue-dark&layout=compact&count_private=true&include_orgs=true" />
 
 <!--
 **NaoyaMiyashitaNissan/NaoyaMiyashitaNissan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
