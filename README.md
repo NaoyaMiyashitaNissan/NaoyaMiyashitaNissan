@@ -10,7 +10,7 @@
 <!-- アイコン設定：https://github.com/tandpfun/skill-icons -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=dart,flutter,python,graphql,azure,figma,aws,gcp,vim,neovim,lua,md&thema=vue-dark" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=dart,flutter,python,graphql,ts,js,react,cpp,azure,figma,aws,gcp,vim,neovim,lua,md&thema=vue-dark" />
 <br>
 
 <!-- プロフィールのviewカウンタ：https://github.com/antonkomarev/github-profile-views-counter -->
